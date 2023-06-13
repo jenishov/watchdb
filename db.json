@@ -1,20 +1,5 @@
 {
-  "users": [
-    {
-      "email": "sultanBOGA4@gmail.com",
-      "password": "$2a$10$Eq5H4f7ZGRP13TqgeIg0Z.uUv7SKwrbn2l8FFJzWureQR9zoNS56C",
-      "name": "Байгелди",
-      "surname": "Абдыхашымов",
-      "phone": "+996(772)72-07-72",
-      "point": 0,
-      "orders": [],
-      "carts": [],
-      "city": "",
-      "home": "",
-      "street": "",
-      "id": 1
-    }
-  ],
+  "users": [],
   "products": [
     {
       "id": 1,
